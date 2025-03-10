@@ -1,0 +1,689 @@
+{
+    "Saturday": {
+        "rooms": [
+            {
+                "roomNo": "403",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "404",
+                "vacantTimes": [
+                    {"time": "11:50 am - 12:15 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "405",
+                "vacantTimes": [
+                    {"time": "8:30 am - 10:10 am", "status": "vacant"},
+                    {"time": "1:30 pm - 2:30 pm", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "406",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 pm", "status": "vacant"},
+                    {"time": "1:30 am - 2:30 pm", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "408",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "409",
+                "vacantTimes": [
+                    {"time": "8:30 am-9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm-5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "410",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "411",
+                "vacantTimes": [
+                    {"time": "11:50 am - 12:15 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "510",
+                "vacantTimes": [
+                    {"time": "1:30 pm-5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "605",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "609",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "610",
+                "vacantTimes": [
+                    {"time": "9:45 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "611",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "612",
+                "vacantTimes": [
+                    {"time": "8:30 am - 10:10 pm", "status": "vacant"},
+                    {"time": "4:10 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "613",
+                "vacantTimes": [
+                    {"time": "8:30 am - 10:10 am", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "901",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "902",
+                "vacantTimes": [
+                    {"time": "8:30 am- 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "903",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "906",
+                "vacantTimes": [
+                    {"time": "8:30 am -05:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "908",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "910",
+                "vacantTimes": [
+                    {"time": "9:45 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            }
+        ]
+    },
+    "Sunday": {
+        "rooms": [
+            {
+                "roomNo": "403",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "404",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "405",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 pm", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "406",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "408",
+                "vacantTimes": [
+                    {"time": "8:30 am - 10:35 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "409",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "410",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "411",
+                "vacantTimes": [
+                    {"time": "9:45 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "510",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 2:30 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "605",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "609",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "610",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "611",
+                "vacantTimes": [
+                    {"time": "11:50 am - 12:15 pm", "status": "vacant"},
+                    {"time": "4:10 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "612",
+                "vacantTimes": [
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "613",
+                "vacantTimes": [
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "901",
+                "vacantTimes": [
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "902",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "903",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "906",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "908",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "910",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"}
+                ]
+            }
+        ]
+    },
+    "Monday": {
+        "rooms": [
+            {
+                "roomNo": "403",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "404",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "405",
+                "vacantTimes": [
+                    {"time": "11:00 am - 12:15 pm", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "406",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "408",
+                "vacantTimes": [
+                    {"time": "12:15 pm - 1:30 pm", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "409",
+                "vacantTimes": [
+                    {"time": "8:30 am - 12:15 pm", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "410",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "411",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "510",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "605",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "609",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "610",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "613",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "901",
+                "vacantTimes": [
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "903",
+                "vacantTimes": [
+                    {"time": "03:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "906",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "908",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "909",
+                "vacantTimes": [
+                    {"time": "11:00 am - 5:30pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "910",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            }
+        ]
+    },
+    "Tuesday": {
+        "rooms": [
+            {
+                "roomNo": "403",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "404",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "11:00 am - 5:30pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "405",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "11:00 am - 11:50 pm", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "406",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "408",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "409",
+                "vacantTimes": [
+                    {"time": "9:45 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "410",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "11:00 am - 12:14 pm", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "411",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "11:00 am - 12:15 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "510",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "605",
+                "vacantTimes": [
+                    {"time": "8:30 am -05:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "609",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "610",
+                "vacantTimes": [
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "611",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:30 pm - 2:55 pm", "status": "vacant"},
+                    {"time": "4:35 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "612",
+                "vacantTimes": [
+                    {"time": "2:30 pm - 3:45 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "613",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "901",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "902",
+                "vacantTimes": [
+                    {"time": "11:00 am - 12:15 pm", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "903",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "906",
+                "vacantTimes": [
+                    {"time": "8:30 am -05:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "908",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "909",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "910",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            }
+        ]
+    },
+    "Wednesday": {
+        "rooms": [
+            {
+                "roomNo": "403",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "404",
+                "vacantTimes": [
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "408",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "409",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "410",
+                "vacantTimes": [
+                    {"time": "10:10 am - 11:00 pm", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "411",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "510",
+                "vacantTimes": [
+                    {"time": "8:30 am - 11:00 am", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "605",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "609",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "610",
+                "vacantTimes": [
+                    {"time": "03:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "612",
+                "vacantTimes": [
+                    {"time": "10:10 am - 11:00 pm", "status": "vacant"},
+                    {"time": "1:30 pm - 2:55 pm", "status": "vacant"},
+                    {"time": "4:35 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "613",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "901",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "902",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "903",
+                "vacantTimes": [
+                    {"time": "8:30 am - 9:45 am", "status": "vacant"},
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "906",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "908",
+                "vacantTimes": [
+                    {"time": "8:30 am - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "909",
+                "vacantTimes": [
+                    {"time": "1:30 pm - 5:00 pm", "status": "vacant"}
+                ]
+            },
+            {
+                "roomNo": "910",
+                "vacantTimes": [
+                    {"time": "3:45 pm - 5:00 pm", "status": "vacant"}
+                ]
+            }
+        ]
+    }
+}
