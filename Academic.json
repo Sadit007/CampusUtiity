@@ -1,0 +1,125 @@
+{
+    "academic_calendar": [
+      {
+        "month": "January",
+        "events": [
+          { "day": 11, "event": "Mid-Semester Exams Begin" },
+          { "day": 17, "event": "Mid-Semester Exams Ends" },     
+          { "day": 28, "event": "Shab-E-Miraj" }
+        ]
+      },
+      {
+        "month": "February",
+        "events": [
+          { "day": 3, "event": "Saraswati Puja" },
+          { "day": 15, "event": "Shab-E-Barat" },
+          { "day": 21, "event": "International Mother Language Day" }
+        ]
+      },
+      {
+        "month": "March",
+        "events": [
+            { "day": 1, "event": "Preparatory Leave" },
+            { "day": 2, "event": "Preparatory Leave" },
+            { "day": 3, "event": "Preparatory Leave" },
+            { "day": 4, "event": "Preparatory Leave" },
+            { "day": 5, "event": "Preparatory Leave" },
+            { "day": 6, "event": "Preparatory Leave" },
+            { "day": 7, "event": "Preparatory Leave" },
+            { "day": 8, "event": "Preparatory Leave" },
+            { "day": 9, "event": "Preparatory Leave" },
+            { "day": 10, "event": "Preparatory Leave" },
+            { "day": 11, "event": "Preparatory Leave" },
+            { "day": 12, "event": "Preparatory Leave" },
+            { "day": 13, "event": "Preparatory Leave" },
+            { "day": 14, "event": "Preparatory Leave" },
+            { "day": 15, "event": "Preparatory Leave" },
+            { "day": 16, "event": "Preparatory Leave" },
+            { "day": 17, "event": "Preparatory Leave" },
+            { "day": 18, "event": "Preparatory Leave" },
+            { "day": 19, "event": "Preparatory Leave" },
+            { "day": 20, "event": "Preparatory Leave" },
+            { "day": 21, "event": "Preparatory Leave" },
+            { "day": 22, "event": "Preparatory Leave" },
+            { "day": 23, "event": "Preparatory Leave" },
+            { "day": 24, "event": "Preparatory Leave" },
+            { "day": 25, "event": "Preparatory Leave" },
+            { "day": 26, "event": "Independence Day" },
+            { "day": 27, "event": "Shab-E-Qadr" },
+            { "day": 28, "event": "Preparatory Leave" },
+            { "day": 29, "event": "Preparatory Leave" },
+            { "day": 30, "event": "Preparatory Leave" },
+            { "day": 31, "event": "Preparatory Leave" }    
+        ]
+      },
+      {
+        "month": "April",
+        "events": [
+            { "day": 1, "event": "Preparatory Leave" },
+            { "day": 2, "event": "Eid-ul-Fitr" },
+            { "day": 3, "event": "Preparatory Leave" },
+            { "day": 4, "event": "Preparatory Leave" },
+            { "day": 5, "event": "Preparatory Leave" },
+            { "day": 6, "event": "Preparatory Leave" },
+            { "day": 7, "event": "Final Exams Begin" },
+            { "day": 14, "event": "Bengali New Year" },
+            { "day": 23, "event": "Easter Sunday" }
+        ]
+      },
+      {
+        "month": "May",
+        "events": [
+          { "day": 1, "event": "Labor Day" },
+          { "day": 4, "event": "Final Exams Ends" },
+          { "day": 12, "event": "Buddha Purnima" }
+        ]
+      },
+      {
+        "month": "June",
+        "events": [
+          { "day": 5, "event": "Eid-ul-Adha Holiday" }
+        ]
+      },
+      {
+        "month": "July",
+        "events": [
+          { "day": 1, "event": "Ashura" }
+        ]
+      },
+      {
+        "month": "August",
+        "events": [
+          { "day": 5, "event": "Facist Free Day" },
+          { "day": 16, "event": "Janmashtami" }
+        ]
+      },
+      {
+        "month": "September",
+        "events": [
+          { "day": 5, "event": "Teachers' Day" },
+          { "day": 29, "event": "Durja Puja" }
+        ]
+      },
+      {
+        "month": "October",
+        "events": [
+            { "day": 1, "event": "Durja Puja" },
+            { "day": 2, "event": "Durja Puja" },
+            { "day": 5, "event": "Probarona Purnima" }
+        ]
+      },
+      {
+        "month": "November",
+        "events": [
+          { "day": 10, "event": "Final Exams Begin" }
+        ]
+      },
+      {
+        "month": "December",
+        "events": [
+            { "day": 16, "event": "National Day" },  
+            { "day": 25, "event": "Christmas Holiday" }
+        ]
+      }
+    ]
+  }
